@@ -1,3 +1,8 @@
+<h2 align="left">👋 Hi, I'm Harshini Dadhich!<br><br>I'm a pre-final year student at IIIT Allahabad, passionate about full-stack development and problem-solving.<br><br>💻 Tech Stack<br>Languages: C, C++, Python, HTML, CSS, JavaScript, SQL<br>Runtime: Node.js<br>Frameworks/Libraries: React.js, Express.js<br>Tools: Git, GitHub, VS Code, Linux<br>Databases: MongoDB, MySQL<br><br>🧠 Core Skills<br>Problem Solving | Analytical Thinking | Communication | Leadership<br><br>📚 Coursework Highlights<br>DSA | OOP | DBMS | OS | CN | Web Dev | Python | Management</h2>
+
+###
+
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -34,6 +39,4 @@
 
 ###
 
-<h2 align="left">👋 Hi, I'm Harshini Dadhich!<br><br>I'm a pre-final year student at IIIT Allahabad, passionate about full-stack development and problem-solving.<br><br>💻 Tech Stack<br>Languages: C, C++, Python, HTML, CSS, JavaScript, SQL<br>Runtime: Node.js<br>Frameworks/Libraries: React.js, Express.js<br>Tools: Git, GitHub, VS Code, Linux<br>Databases: MongoDB, MySQL<br><br>🧠 Core Skills<br>Problem Solving | Analytical Thinking | Communication | Leadership<br><br>📚 Coursework Highlights<br>DSA | OOP | DBMS | OS | CN | Web Dev | Python | Management</h2>
 
-###
