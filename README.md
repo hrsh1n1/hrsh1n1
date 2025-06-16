@@ -1,4 +1,4 @@
-<h4 align="left">Hi, I'm Harshini Dadhich!<br><br>I'm a pre-final year student at IIIT Allahabad, passionate about full-stack development and problem-solving.<br><br>💻 Tech Stack<br>Languages: C, C++, Python, HTML, CSS, JavaScript, SQL<br>Runtime: Node.js<br>Frameworks/Libraries: React.js, Express.js<br>Tools: Git, GitHub, VS Code, Linux<br>Databases: MongoDB, MySQL<br><br>🧠 Core Skills<br>Problem Solving | Analytical Thinking | Communication | Leadership<br><br>📚 Coursework Highlights<br>DSA | OOP | DBMS | OS | CN | Web Dev | Python | Management</h4>
+<h5 align="left">Hi, I'm Harshini Dadhich!<br><br>I'm a pre-final year student at IIIT Allahabad, passionate about full-stack development and problem-solving.<br><br>💻 Tech Stack<br>Languages: C, C++, Python, HTML, CSS, JavaScript, SQL<br>Runtime: Node.js<br>Frameworks/Libraries: React.js, Express.js<br>Tools: Git, GitHub, VS Code, Linux<br>Databases: MongoDB, MySQL<br><br>🧠 Core Skills<br>Problem Solving | Analytical Thinking | Communication | Leadership<br><br>📚 Coursework Highlights<br>DSA | OOP | DBMS | OS | CN | Web Dev | Python | Management</h5>
 
 ###
 
@@ -15,8 +15,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo"  />
   <img width="12" />
